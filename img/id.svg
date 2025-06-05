@@ -1,0 +1,150 @@
+<svg width="252pt" height="160pt" viewBox="0.00 0.00 252.00 160.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 156)">
+<title>hom_graph</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-156 248,-156 248,4 -4,4"></polygon>
+<g id="clust1" class="cluster">
+<title>cluster_dom</title>
+<polygon fill="none" stroke="black" points="8,-80 8,-144 185,-144 185,-80 8,-80"></polygon>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_cod</title>
+<polygon fill="none" stroke="black" points="54.5,-8 54.5,-72 236,-72 236,-8 54.5,-8"></polygon>
+</g>
+<!-- domn1 -->
+<!-- junction -->
+<g id="n1" class="node">
+<title>domn1</title>
+<ellipse fill="black" stroke="black" cx="18" cy="-95" rx="2" ry="2"></ellipse>
+</g>
+<!-- domn4 -->
+<!-- g -->
+<g id="n4" class="node">
+<title>domn4</title>
+<polygon fill="none" stroke="black" points="56.5,-88 56.5,-113 73.5,-113 73.5,-88 56.5,-88"></polygon>
+<text text-anchor="start" x="61.5" y="-96.8" font-family="Serif" font-size="14.00">g</text>
+</g>
+<!-- domn1&#45;&gt;domn4 -->
+<g id="e4" class="edge">
+<title>domn1-&gt;domn4:w</title>
+<path fill="none" stroke="black" d="M20.13,-95.27C24.06,-96.19 37.65,-99.17 50.46,-99.86"></path>
+<polygon fill="black" stroke="black" points="50.45,-101.61 55.5,-100 50.55,-98.11 50.45,-101.61"></polygon>
+</g>
+<!-- codomn1 -->
+<!-- junction -->
+<g id="n1" class="node">
+<title>codomn1</title>
+<ellipse fill="black" stroke="black" cx="64.5" cy="-56" rx="2" ry="2"></ellipse>
+</g>
+<!-- domn1&#45;&gt;codomn1 -->
+<g id="edge11" class="edge">
+<title>domn1-&gt;codomn1</title>
+<path fill="none" stroke="blue" d="M20.1,-94.04C25.39,-89.4 48.36,-69.27 58.57,-60.32"></path>
+<polygon fill="blue" stroke="blue" points="59.98,-61.41 62.59,-56.8 57.68,-58.78 59.98,-61.41"></polygon>
+</g>
+<!-- domn2 -->
+<!-- junction -->
+<g id="n2" class="node">
+<title>domn2</title>
+<ellipse fill="black" stroke="black" cx="117.5" cy="-100" rx="2" ry="2"></ellipse>
+</g>
+<!-- domn3 -->
+<!-- f -->
+<g id="n3" class="node">
+<title>domn3</title>
+<polygon fill="none" stroke="black" points="162.5,-88 162.5,-136 177.5,-136 177.5,-88 162.5,-88"></polygon>
+<text text-anchor="start" x="167.5" y="-108.3" font-family="Serif" font-size="14.00">f</text>
+</g>
+<!-- domn2&#45;&gt;domn3 -->
+<g id="e1" class="edge">
+<title>domn2-&gt;domn3:w</title>
+<path fill="none" stroke="black" d="M119.46,-101.03C123.45,-105.19 139.28,-120.68 156.59,-123.54"></path>
+<polygon fill="black" stroke="black" points="156.87,-125.32 162,-124 157.17,-121.83 156.87,-125.32"></polygon>
+</g>
+<!-- domn2&#45;&gt;domn3 -->
+<g id="e2" class="edge">
+<title>domn2-&gt;domn3:w</title>
+<path fill="none" stroke="black" d="M119.58,-100C123.97,-100 141.06,-100 156.75,-100"></path>
+<polygon fill="black" stroke="black" points="157,-101.75 162,-100 157,-98.25 157,-101.75"></polygon>
+</g>
+<!-- codomn2 -->
+<!-- junction -->
+<g id="n2" class="node">
+<title>codomn2</title>
+<ellipse fill="black" stroke="black" cx="169.5" cy="-50" rx="2" ry="2"></ellipse>
+</g>
+<!-- domn2&#45;&gt;codomn2 -->
+<g id="edge12" class="edge">
+<title>domn2-&gt;codomn2</title>
+<path fill="none" stroke="blue" d="M119.37,-99.13C124.63,-93.87 152.44,-66.06 163.73,-54.77"></path>
+<polygon fill="blue" stroke="blue" points="165.15,-55.83 167.44,-51.06 162.67,-53.35 165.15,-55.83"></polygon>
+</g>
+<!-- domn3&#45;&gt;domn2 -->
+<g id="e3" class="edge">
+<title>domn3:e-&gt;domn2</title>
+<path fill="none" stroke="black" d="M178.5,-112C189.18,-112 185.2,-128.61 177.5,-136 172.53,-140.77 168.48,-138.33 162,-136 144.89,-129.84 129.74,-113.7 122.69,-105.29"></path>
+<polygon fill="black" stroke="black" points="123.9,-104 119.4,-101.2 121.17,-106.19 123.9,-104"></polygon>
+</g>
+<!-- codomn3 -->
+<!-- f -->
+<g id="n3" class="node">
+<title>codomn3</title>
+<polygon fill="none" stroke="black" points="213.5,-16 213.5,-64 228.5,-64 228.5,-16 213.5,-16"></polygon>
+<text text-anchor="start" x="218.5" y="-36.3" font-family="Serif" font-size="14.00">f</text>
+</g>
+<!-- domn3&#45;&gt;codomn3 -->
+<g id="edge13" class="edge">
+<title>domn3-&gt;codomn3</title>
+<path fill="none" stroke="red" d="M177.11,-102.29C185.63,-89.77 200.5,-67.91 210.18,-53.7"></path>
+<polygon fill="red" stroke="red" points="211.63,-54.67 213,-49.56 208.74,-52.71 211.63,-54.67"></polygon>
+</g>
+<!-- domn4&#45;&gt;domn2 -->
+<g id="e5" class="edge">
+<title>domn4:e-&gt;domn2</title>
+<path fill="none" stroke="black" d="M73,-100C86.22,-100 101.69,-100 110.16,-100"></path>
+<polygon fill="black" stroke="black" points="110.42,-101.75 115.42,-100 110.42,-98.25 110.42,-101.75"></polygon>
+</g>
+<!-- codomn4 -->
+<!-- g -->
+<g id="n4" class="node">
+<title>codomn4</title>
+<polygon fill="none" stroke="black" points="109.5,-38 109.5,-63 126.5,-63 126.5,-38 109.5,-38"></polygon>
+<text text-anchor="start" x="114.5" y="-46.8" font-family="Serif" font-size="14.00">g</text>
+</g>
+<!-- domn4&#45;&gt;codomn4 -->
+<g id="edge14" class="edge">
+<title>domn4-&gt;codomn4</title>
+<path fill="none" stroke="red" d="M73.03,-93.62C81.54,-85.28 95.49,-71.6 105.28,-62"></path>
+<polygon fill="red" stroke="red" points="106.6,-63.16 108.94,-58.41 104.15,-60.66 106.6,-63.16"></polygon>
+</g>
+<!-- codomn1&#45;&gt;codomn4 -->
+<g id="e4" class="edge">
+<title>codomn1-&gt;codomn4:w</title>
+<path fill="none" stroke="black" d="M66.57,-55.74C70.93,-54.71 87.92,-50.9 103.71,-50.13"></path>
+<polygon fill="black" stroke="black" points="104.05,-51.88 109,-50 103.96,-48.38 104.05,-51.88"></polygon>
+</g>
+<!-- codomn2&#45;&gt;codomn3 -->
+<g id="e1" class="edge">
+<title>codomn2-&gt;codomn3:w</title>
+<path fill="none" stroke="black" d="M171.55,-50.09C175.84,-50.43 192.52,-51.7 207.87,-51.96"></path>
+<polygon fill="black" stroke="black" points="207.98,-53.71 213,-52 208.02,-50.21 207.98,-53.71"></polygon>
+</g>
+<!-- codomn2&#45;&gt;codomn3 -->
+<g id="e2" class="edge">
+<title>codomn2-&gt;codomn3:w</title>
+<path fill="none" stroke="black" d="M171.45,-49.05C175.4,-45.24 191.03,-31.05 207.78,-28.42"></path>
+<polygon fill="black" stroke="black" points="208.16,-30.15 213,-28 207.88,-26.66 208.16,-30.15"></polygon>
+</g>
+<!-- codomn3&#45;&gt;codomn2 -->
+<g id="e3" class="edge">
+<title>codomn3:e-&gt;codomn2</title>
+<path fill="none" stroke="black" d="M229.5,-40C240.18,-40 236.2,-56.61 228.5,-64 213.6,-78.3 186.73,-61.83 175.57,-53.85"></path>
+<polygon fill="black" stroke="black" points="176.53,-52.38 171.48,-50.78 174.43,-55.18 176.53,-52.38"></polygon>
+</g>
+<!-- codomn4&#45;&gt;codomn2 -->
+<g id="e5" class="edge">
+<title>codomn4:e-&gt;codomn2</title>
+<path fill="none" stroke="black" d="M126,-50C138.91,-50 154.03,-50 162.31,-50"></path>
+<polygon fill="black" stroke="black" points="162.45,-51.75 167.45,-50 162.45,-48.25 162.45,-51.75"></polygon>
+</g>
+</g>
+</svg>

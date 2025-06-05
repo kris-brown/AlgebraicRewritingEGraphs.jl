@@ -1,0 +1,62 @@
+<svg width="164pt" height="61pt" viewBox="0.00 0.00 164.20 60.51" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 56.51)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-56.51 160.2,-56.51 160.2,4 -4,4"></polygon>
+<!-- n1 -->
+<!-- junction -->
+<g id="n1" class="node">
+<title>n1</title>
+<ellipse fill="black" stroke="black" cx="2" cy="-24" rx="2" ry="2"></ellipse>
+</g>
+<!-- n4 -->
+<!-- g -->
+<g id="n4" class="node">
+<title>n4</title>
+<polygon fill="none" stroke="black" points="40.5,-12 40.5,-37 57.5,-37 57.5,-12 40.5,-12"></polygon>
+<text text-anchor="start" x="45.5" y="-20.8" font-family="Serif" font-size="14.00">g</text>
+</g>
+<!-- n1&#45;&gt;n4 -->
+<g id="e4" class="edge">
+<title>n1-&gt;n4:w</title>
+<path fill="none" stroke="black" d="M4.15,-24C8.17,-24 22.02,-24 34.93,-24"></path>
+<polygon fill="black" stroke="black" points="35,-25.75 40,-24 35,-22.25 35,-25.75"></polygon>
+</g>
+<!-- n2 -->
+<!-- junction -->
+<g id="n2" class="node">
+<title>n2</title>
+<ellipse fill="black" stroke="black" cx="95" cy="-24" rx="2" ry="2"></ellipse>
+</g>
+<!-- n3 -->
+<!-- f -->
+<g id="n3" class="node">
+<title>n3</title>
+<polygon fill="none" stroke="black" points="133.5,0 133.5,-48 148.5,-48 148.5,0 133.5,0"></polygon>
+<text text-anchor="start" x="138.5" y="-20.3" font-family="Serif" font-size="14.00">f</text>
+</g>
+<!-- n2&#45;&gt;n3 -->
+<g id="e1" class="edge">
+<title>n2-&gt;n3:w</title>
+<path fill="none" stroke="black" d="M97.11,-24.65C100.98,-26.85 114.41,-34.01 127.73,-35.66"></path>
+<polygon fill="black" stroke="black" points="127.9,-37.42 133,-36 128.12,-33.93 127.9,-37.42"></polygon>
+</g>
+<!-- n2&#45;&gt;n3 -->
+<g id="e2" class="edge">
+<title>n2-&gt;n3:w</title>
+<path fill="none" stroke="black" d="M97.11,-23.35C100.98,-21.15 114.41,-13.99 127.73,-12.34"></path>
+<polygon fill="black" stroke="black" points="128.12,-14.07 133,-12 127.9,-10.58 128.12,-14.07"></polygon>
+</g>
+<!-- n3&#45;&gt;n2 -->
+<g id="e3" class="edge">
+<title>n3:e-&gt;n2</title>
+<path fill="none" stroke="black" d="M149.5,-24C160.18,-24 156.2,-40.61 148.5,-48 133.95,-61.96 109.84,-39.15 100.19,-28.75"></path>
+<polygon fill="black" stroke="black" points="101.49,-27.58 96.86,-25.02 98.88,-29.91 101.49,-27.58"></polygon>
+</g>
+<!-- n4&#45;&gt;n2 -->
+<g id="e5" class="edge">
+<title>n4:e-&gt;n2</title>
+<path fill="none" stroke="black" d="M57,-24C67.82,-24 80.42,-24 87.77,-24"></path>
+<polygon fill="black" stroke="black" points="87.85,-25.75 92.85,-24 87.85,-22.25 87.85,-25.75"></polygon>
+</g>
+</g>
+</svg>

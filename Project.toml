@@ -1,0 +1,12 @@
+name = "CSetEGraphs"
+uuid = "785a3537-dea8-4fd5-9bb2-fa24c350b4d5"
+authors = ["Kris Brown <kris@topos.institute>"]
+version = "0.1.0"
+
+[deps]
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+[compat]
+Catlab = "0.16.20"
+Reexport = "1.2.2"
