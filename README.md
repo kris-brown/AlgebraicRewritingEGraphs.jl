@@ -100,15 +100,15 @@ We can apply the above three types of rules repeatedly via the `saturate` method
 
 ![](img/orig.svg)
 
-We obtain four morphisms. The first one comes from applying `f(f(x)) => f(x)`
+We obtain four morphisms. The first one comes from applying `g(f(x)) => g(x)`:
 
 ![](img/r1.svg)
 
-The second comes from `g(f(x)) => g(x)`:
+The second comes from `f(f(x)) => f(x)`:
 
 ![](img/r2.svg)
 
-The third comes from `f(f(x)) => f(x)` again:
+The third comes from `g(f(x)) => g(x)` again:
 
 ![](img/r3.svg)
 
